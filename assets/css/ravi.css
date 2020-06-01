@@ -59,7 +59,7 @@ body {
 @media (min-width: 800px) {
   .hero-image {
     float:right;
-    max-width: 50%;
+    max-width: 60%;
     margin-left: 1em;
   }
 }
