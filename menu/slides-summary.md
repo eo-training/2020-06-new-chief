@@ -16,7 +16,7 @@ permalink: "/slides-summary/"
     </div>
     <div class="slide-notes">
         
-        <p><strong>{{ page.slug }}. <a href="{{ page.url | relative_url }}">{{ page.title }}</a></strong></p>
+        <p><strong>{{ page.slug }}. {{ page.title }}</strong></p>
 
         {{ page.content }}
 
