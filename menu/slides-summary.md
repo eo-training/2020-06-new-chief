@@ -11,7 +11,7 @@ permalink: "/slides-summary/"
 
       <div class="slide-image">
         <a href="{{ page.url | relative_url }}">
-            <img src="../assets/slides/slide-{{ page.slug }}.jpeg">
+            <img src="../assets/slides/slide-{{ page.slug }}.png">
         </a>
     </div>
     <div class="slide-notes">
