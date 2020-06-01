@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<img class="hero-image" src="{{ site.github.url }}/assets/img/slide-thumbnails.png">
+<img class="hero-image" src="{{ site.github.url }}/assets/img/chiefs-briefing-small.jpg">
 
 <div class="homepage-intro">
 Welcome to the New Chief & Assistant Chief online training class!
