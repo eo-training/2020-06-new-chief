@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "New EO Training - Slides Thumbnails"
+title: "Slides Thumbnails"
 permalink: "/slides-thumbnails/"
 ---
 
